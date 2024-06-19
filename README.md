@@ -1,2 +1,2 @@
 # full-stack
-author shiva
+author bharathi
