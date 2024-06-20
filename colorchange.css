@@ -1,0 +1,15 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    transition: all 2s;
+}
+div:hover{
+    width: 800px;
+    height: 800px;
+
+
+    color: red;
+    background-color:greenyellow;
+    transition: all 4s;
+}

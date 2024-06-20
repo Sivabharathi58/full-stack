@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>JavaScript Arrays</h1>
+<h2>The splice() Method</h2>
+
+<p>The splice() method adds or removes array elements.</p>
+
+<p id="demo"></p>
+
+<script>
+// Create an Array
+const animals =[ "lion", "tiger", "elephant", "wolf"];
+
+// At position 2, add "Lemon" and "Kiwi"
+animals.splice(2, 0, "dog", "panda");
+
+document.getElementById("demo").innerHTML = animals;
+</script>
+
+</body>
+</html>

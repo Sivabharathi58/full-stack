@@ -1,0 +1,40 @@
+#cont
+{
+    height:500px;
+    width: 600px;
+    display: flex;
+    border: 2px solid ;
+    flex-direction:column;
+    /*justify-content: center;*/
+    align-items:last baseline;
+    
+    
+}
+div{
+    width: 200px;
+    height:200px;
+    border: 4px solid black;
+}
+#one{
+   
+    background-color: aqua;
+    
+}
+#two{
+    
+    background-color:goldenrod;
+    
+}#three{
+    
+    background-color: darkorchid;
+    
+}
+#four{
+
+    background-color:hotpink;
+    
+}
+
+
+
+
